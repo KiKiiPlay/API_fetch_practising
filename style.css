@@ -1,0 +1,18 @@
+@import url("https://fonts.cdnfonts.com/css/rammstein");
+
+#rammstein {
+  font-family: "Rammstein by Wojciech", sans-serif;
+  display: block;
+  text-align: center;
+}
+
+#metallica {
+  font-family: "New Rocker", cursive;
+  display: block;
+  text-align: center;
+}
+
+#pink_floyd {
+  display: block;
+  text-align: center;
+}
